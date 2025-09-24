@@ -1,4 +1,4 @@
-# Quant_Project_1
+# Jing - Quant_Project_1
 
 ## 📌 Overview
 Quant_Project_1 is a Python-based project focused on quantitative analysis. Using HV mean reversion to predict ATM Volatility. This repository contains scripts and resources for data analysis and financial modeling.
